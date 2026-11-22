@@ -1,6 +1,6 @@
-# Project name
+# Westgate Teams: Production & Payroll Automation
 
-> One sentence: what this agent watches, and what it does when something looks wrong.
+> An agent that checks each day's housekeeping team production, flags likely errors for a person to review, and prepares the totals for weekly payroll.
 
 **Live app:** link-to-your-streamlit-app &nbsp;·&nbsp; **30-second overview:** link-to-your-video
 
